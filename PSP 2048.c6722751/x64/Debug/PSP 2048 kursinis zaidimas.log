@@ -1,0 +1,7 @@
+﻿  Board.cpp
+  Game.cpp
+D:\Codes programming\source\repos\PSP 2048 kursinis zaidimas\Game.cpp(57,21): warning C4129: 'Y': unrecognized character escape sequence
+  main.cpp
+  Tile.cpp
+  Generating Code...
+  PSP 2048 kursinis zaidimas.vcxproj -> D:\Codes programming\source\repos\PSP 2048 kursinis zaidimas\x64\Debug\PSP 2048 kursinis zaidimas.exe
