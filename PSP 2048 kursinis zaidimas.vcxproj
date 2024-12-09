@@ -130,11 +130,21 @@
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MoveDown.cpp" />
+    <ClCompile Include="MoveLeft.cpp" />
+    <ClCompile Include="MoveRight.cpp" />
+    <ClCompile Include="MoveStrategy.cpp" />
+    <ClCompile Include="MoveUp.cpp" />
     <ClCompile Include="Tile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="MoveDown.h" />
+    <ClInclude Include="MoveLeft.h" />
+    <ClInclude Include="MoveRight.h" />
+    <ClInclude Include="MoveStrategy.h" />
+    <ClInclude Include="MoveUp.h" />
     <ClInclude Include="Tile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

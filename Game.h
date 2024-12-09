@@ -1,15 +1,15 @@
 #pragma once
 #include "Board.h"
-#include <iostream>
+
 class Game {
 private:
-	Board board;
-	void printGameInstructions();
-	void restartGame();
-	bool continueGameOrQuit();
+    Board board;
+    void printGameInstructions() const;
+    void restartGame();
+    void handleGameOver();
+    void handleGameWon();
 
 public:
-	Game();
-	void run();
+    Game();
+    void run();
 };
-

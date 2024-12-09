@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\ScoreTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|solutionrelative:Tests2048\\ScoreTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\GameOverTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|solutionrelative:Tests2048\\GameOverTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\MergeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|solutionrelative:Tests2048\\MergeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveStrategy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveStrategy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveRight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveRight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveLeft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveUp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,12 +67,45 @@
       "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:MoveDown.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6722751-67DD-4F05-B3A1-53EE1C348552}|PSP 2048 kursinis zaidimas.vcxproj|solutionrelative:Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04538-AF4F-4F7F-B049-CF8E7783D078}|C:\\Users\\Legion\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_f73da7c1\\SingleFileISense\\_sfi_ca3496f4-b068-4e6f-a638-ce24eff07555_.vcxproj|C:\\USERS\\LEGION\\DESKTOP\\2048 1 DALIS KURSINIO\\BOARD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04538-AF4F-4F7F-B049-CF8E7783D078}|C:\\Users\\Legion\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_f73da7c1\\SingleFileISense\\_sfi_ca3496f4-b068-4e6f-a638-ce24eff07555_.vcxproj|C:\\USERS\\LEGION\\DESKTOP\\2048 1 DALIS KURSINIO\\TILE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B56AFE-0D86-4711-81CD-DEBE281D26AC}|Tests2048\\Tests2048.vcxproj|solutionrelative:Tests2048\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\source\\repos\\2048 kursinis\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -33,19 +118,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tile.cpp",
-              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.cpp",
-              "RelativeDocumentMoniker": "Tile.cpp",
-              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.cpp",
-              "RelativeToolTip": "Tile.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T17:05:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveStrategy.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.h",
+              "RelativeDocumentMoniker": "MoveStrategy.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.h",
+              "RelativeToolTip": "MoveStrategy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T16:56:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveStrategy.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.cpp",
+              "RelativeDocumentMoniker": "MoveStrategy.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveStrategy.cpp",
+              "RelativeToolTip": "MoveStrategy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T22:56:12.687Z",
+              "WhenOpened": "2024-12-08T16:57:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.cpp",
+              "RelativeDocumentMoniker": "Board.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.cpp",
+              "RelativeToolTip": "Board.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T22:45:34.625Z",
               "EditorCaption": ""
             },
             {
@@ -56,58 +184,331 @@
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-10T22:56:11.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "MergeTest.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\MergeTest.cpp",
+              "RelativeDocumentMoniker": "Tests2048\\MergeTest.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\MergeTest.cpp",
+              "RelativeToolTip": "Tests2048\\MergeTest.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T22:51:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverTests.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\GameOverTests.cpp",
+              "RelativeDocumentMoniker": "Tests2048\\GameOverTests.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\GameOverTests.cpp",
+              "RelativeToolTip": "Tests2048\\GameOverTests.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T22:43:19.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreTests.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\ScoreTests.cpp",
+              "RelativeDocumentMoniker": "Tests2048\\ScoreTests.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\ScoreTests.cpp",
+              "RelativeToolTip": "Tests2048\\ScoreTests.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:06:28.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Board.h",
               "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.h",
               "RelativeDocumentMoniker": "Board.h",
               "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.h",
               "RelativeToolTip": "Board.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-10T22:45:54.221Z"
+              "WhenOpened": "2024-12-08T22:28:04.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "MoveRight.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.h",
+              "RelativeDocumentMoniker": "MoveRight.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.h",
+              "RelativeToolTip": "MoveRight.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:01:21.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoveDown.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.cpp",
+              "RelativeDocumentMoniker": "MoveDown.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.cpp",
+              "RelativeToolTip": "MoveDown.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:00:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoveRight.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.cpp",
+              "RelativeDocumentMoniker": "MoveRight.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveRight.cpp",
+              "RelativeToolTip": "MoveRight.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:01:30.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoveLeft.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.cpp",
+              "RelativeDocumentMoniker": "MoveLeft.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.cpp",
+              "RelativeToolTip": "MoveLeft.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:01:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoveUp.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.cpp",
+              "RelativeDocumentMoniker": "MoveUp.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.cpp",
+              "RelativeToolTip": "MoveUp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T16:53:38.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.cpp",
+              "RelativeDocumentMoniker": "Tile.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.cpp",
+              "RelativeToolTip": "Tile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T22:56:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-10T22:45:36.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Board.cpp",
-              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.cpp",
-              "RelativeDocumentMoniker": "Board.cpp",
-              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Board.cpp",
-              "RelativeToolTip": "Board.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T22:45:34.625Z",
+              "DocumentIndex": 16,
+              "Title": "MoveUp.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.h",
+              "RelativeDocumentMoniker": "MoveUp.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveUp.h",
+              "RelativeToolTip": "MoveUp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T01:06:03.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
+              "Title": "MoveLeft.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.h",
+              "RelativeDocumentMoniker": "MoveLeft.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveLeft.h",
+              "RelativeToolTip": "MoveLeft.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:00:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoveDown.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.h",
+              "RelativeDocumentMoniker": "MoveDown.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\MoveDown.h",
+              "RelativeToolTip": "MoveDown.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:00:38.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tile.h",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.h",
+              "RelativeDocumentMoniker": "Tile.h",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tile.h",
+              "RelativeToolTip": "Tile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T22:29:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\pch.cpp",
+              "RelativeDocumentMoniker": "Tests2048\\pch.cpp",
+              "ToolTip": "D:\\Codes programming\\source\\repos\\PSP 2048 kursinis zaidimas\\Tests2048\\pch.cpp",
+              "RelativeToolTip": "Tests2048\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:06:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Board.cpp",
               "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\2048 kursinis\\Board.cpp",
               "ToolTip": "C:\\Users\\Legion\\source\\repos\\2048 kursinis\\Board.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T22:44:17.468Z"
+              "WhenOpened": "2024-11-10T22:44:17.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "592f95cd-6027-4321-95ac-3355f24f2fc7",
+        "Display": 1,
+        "X": 559,
+        "Y": 200,
+        "Width": 1153,
+        "Height": 563,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tile.h",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Tile.h",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Tile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T23:26:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Tile.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Tile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:26:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\main.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:26:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.h",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T23:26:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Game.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:26:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Board.h",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Board.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T23:26:38.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Board.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\2048 1 dalis kursinio\\Board.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:26:32.744Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  MergeTest.cpp
+  GameOverTests.cpp
+  ScoreTests.cpp
+  Generating Code...
+     Creating library D:\Codes programming\source\repos\PSP 2048 kursinis zaidimas\x64\Debug\Tests2048.lib and object D:\Codes programming\source\repos\PSP 2048 kursinis zaidimas\x64\Debug\Tests2048.exp
+  Tests2048.vcxproj -> D:\Codes programming\source\repos\PSP 2048 kursinis zaidimas\x64\Debug\Tests2048.dll
